@@ -63,6 +63,20 @@ Akış: Rakip Analizcisi + Trend Avcısı paralel çalışır → çıktıları 
 
 ## Üretim pipeline
 
+### Adım sırası (zorunlu)
+1. Kurul onayı (fikir + başlık/thumb)
+2. Script yazımı (beat yapısı)
+3. VO üretimi + Whisper timecodes
+4. **faceless-explainer** — script'ten sahne listesi + overlay plan (görsel üretimden ÖNCE çalışmalı, beat başına ne lazım belirler)
+5. Görsel üretim (Nim GPT Image 2)
+6. Veo animasyon (ilk 90 sn) + Ken Burns (geri kalan)
+7. Beat-sync montaj (concat demuxer)
+8. **captions-overlay** — montaj BİTTİKTEN SONRA, altyazı montajın üstüne biner
+9. Müzik + ducking + loudness normalizasyon
+10. QA kontrol (siyah kare, A/V sync, caption taşması)
+11. Thumbnail üretimi + Test & Compare varyantları
+12. Yükleme + YouTube metadata
+
 ### Video yapısı (2 katman)
 - **İlk ~90 sn = animasyonlu açılış** — 8-10 kısa video klip (image-to-video), hızlı kesim, cold-open hook'u taşır
   - Üretim: genaipro Veo (`/v2/veo/frames-to-video`) veya Nim LTX-2 Fast
@@ -85,6 +99,8 @@ ffmpeg -loop 1 -i img.png -t 7 -r 30 \
   -c:v libx264 -pix_fmt yuv420p clip.mp4
 ```
 4 motion preset (zoom-in, zoom-out, pan-left, pan-right) index%4 ile dön.
+- **zoompan süresini doğrudan hedef beat süresine ayarla** (`d = beat_süresi × fps`). Önce sabit süre üretip sonra setpts ile esnetme — zoompan takılır, kalite düşer.
+- Titreme önleme: önce büyük ölçek (`scale=8000:-1`), sonra zoompan uygula.
 
 ### Infografik reveal (geq alpha sweep)
 ```bash
@@ -116,6 +132,10 @@ ffmpeg -loop 1 -i img.png -t 7 -r 30 \
 - API key env: `GROQ_API_KEY` (~/.config/watch/.env)
 - Params: verbose_json, timestamp_granularities: word+segment
 - Kullanım: VO timecode çıkarma, beat senkron
+- **Bilinen sorun:** Whisper ASR yanlış duyduğu kelimelerle beat eşlemesi kayabilir. Script metni zaten biliniyor — ideal çözüm:
+  1. genaipro/ElevenLabs `with-timestamps` karakter hizalama (varsa Whisper'a gerek kalmaz)
+  2. Yoksa forced alignment (`whisperx` veya `aeneas`) ile script metnine hizala
+  3. Son çare: ham Whisper + `difflib` kelime eşleme
 
 ### Video (genaipro Veo)
 - Endpoint: `POST /v2/veo/frames-to-video`
@@ -137,12 +157,19 @@ ffmpeg -loop 1 -i img.png -t 7 -r 30 \
 - Yükleme zamanı: TR 21:30, yayına alma 22:30 (US prime time hedefi)
 - YouTube açıklama: chapters (timecode'lu), tag listesi, açıklama v3 script'e uyumlu
 - Test & Compare: her videoya 3 thumbnail varyantı, 7 gün süre ver
+- **DİKKAT:** Test & Compare kazananı CTR'a göre DEĞİL, **watch time share**'e göre seçer. Değerlendirmede bunu kullan.
 
 ## Beat-görsel senkron
 - Whisper'dan beat başlangıç zamanları çıkar (vo2_whisper.json)
 - Her beat'e doğru görsel atanır (override map ile düzeltme yapıldı)
-- setpts ile klip süresi VO beat süresine stretch edilir
-- concat demuxer ile sıralı birleştirme
+- **Ken Burns klipleri:** zoompan'ı doğrudan beat süresine üret (setpts esnetme KULLANMA)
+- **Veo klipleri:** 1.3x'ten fazla yavaşlatma yapma (slow-mo görünür). Uzun beat'te kırp veya 2 klibe böl.
+- **concat öncesi klip normalizasyonu ZORUNLU:** Veo + ffmpeg çıktıları farklı fps/çözünürlük/pix_fmt/SAR taşır.
+  Her klibi birleştirmeden önce tek formata çevir:
+  ```bash
+  ffmpeg -i clip.mp4 -vf "scale=1920:1080:force_original_aspect_ratio=decrease,pad=1920:1080:(ow-iw)/2:(oh-ih)/2,fps=30,setsar=1,format=yuv420p" -c:v libx264 -an normalized_clip.mp4
+  ```
+- Sesi videodan ayrı tut, en sonda VO'yu tek parça olarak ekle
 - Beat-görsel uyumsuzluğu kontrol: "beat de yanlış görsel var mı" sorgusu
 
 ## Açıklama + SEO formatı
@@ -204,6 +231,28 @@ Her video fikri 3 koşulda değerlendirilir:
 - **genaipro**: REST API (curl), TTS labs + Veo video
 - **Chrome** (claude-in-chrome): YouTube Studio erişimi, gerçek CTR/retention okuma
 - **Groq**: Whisper transkripsiyon (watch skill entegre)
+
+## YouTube AI politika uyumu
+- Yüklemede **"altered/synthetic content" beyanı** zorunlu (Temmuz 2025 kuralı)
+- Script'te özgün editoryal katkı: kaynak göster, yorum kat, saf şablon tekrarı yapma
+- Videolar arası açılış kalıbı ve görsel stilde küçük varyasyonlar koy (mass-produced algısını kır)
+- Faceless + AI ses + AI görsel = YouTube "inauthentic content" hedefinde. Editoryal derinlik tek savunma.
+
+## Post-prodüksiyon kontrol listesi
+- **Müzik + ducking:** BGM ekle, VO konuşurken `sidechaincompress` veya `-af "volume=0.15"` ile kıs
+- **Loudness:** YouTube hedef **−14 LUFS**. `ffmpeg -af loudnorm=I=-14:TP=-1.5:LRA=11`
+- **QA kontrol:** siyah kare, ses-görüntü kayması, altyazı taşması, concat bozulması
+- **Retention geri besleme:** yayınlanan videonun retention grafiğinde düşüş noktaları → sonraki script'e not olarak geri dönsün (şu an döngü sadece thumbnail'de var)
+
+## Maliyet optimizasyonu
+- 87 görsel × 2 credit = video başına ~174 Nim credit
+- **Görsel cache:** tekrar eden sahne/karakter/mekan görselleri yeniden üretme, cache'ten çek
+- **Veo stil kayması:** flat-comic'ten I2V foto-gerçekçiliğe kayabilir. Prompt'a stil kilidi koy, ilk 2-3 klibi kontrol et.
+
+## Orkestrasyon (TODO)
+- Tek `manifest.json`: beat → prompt → görsel_id → klip_path → durum (pending/done/failed)
+- Kaldığı yerden devam edebilen orkestratör script (Nim batch hatası vb. durumda baştan başlama yok)
+- Maliyet takibi aynı manifest'e eklenebilir
 
 ## Kırmızı çizgiler
 - Clickbait-yalan YASAK — başlık vaadi video içeriğinde karşılanmalı
