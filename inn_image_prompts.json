@@ -1,0 +1,577 @@
+[
+  {
+    "scene_id": 1,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, extreme close-up of a single lit candle flame in darkness, warm golden glow flickering softly, soft bokeh, wax dripping slowly, intimate and cozy, deep shadows surrounding the light",
+    "setting": "abstract"
+  },
+  {
+    "scene_id": 2,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, close-up of glowing fireplace embers pulsing with warm orange light, soft ash drifting, dark hearth stones around, cozy and hypnotic warmth, gentle shadows",
+    "setting": "abstract"
+  },
+  {
+    "scene_id": 3,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, close-up of raindrops sliding down an old distorted glass windowpane at dusk, warm amber light blurred behind the glass, soft focus, cozy interior glow beyond the rain-streaked glass",
+    "setting": "abstract"
+  },
+  {
+    "scene_id": 4,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a lone woman in a dark modest Victorian dress walking along a quiet autumn country lane, honey-colored late October light, wet fallen leaves underfoot, mist drifting between hedgerows, distant woodsmoke haze",
+    "setting": "village"
+  },
+  {
+    "scene_id": 5,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a tired-looking Victorian woman mid-30s with brown hair pinned up walking alone along a quiet rural lane, holding a folded letter, autumn trees overhead, soft amber afternoon light, wistful expression",
+    "setting": "village"
+  },
+  {
+    "scene_id": 6,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a Victorian woman standing outside a small stone lending library building, sunlight through windows, autumn leaves scattered on cobblestones, quiet contemplative mood, warm muted tones",
+    "setting": "village"
+  },
+  {
+    "scene_id": 7,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, view down a curving country lane opening onto a small Victorian village, church spire with square tower in the distance, thatched and stone cottages, golden hour light, gentle mist",
+    "setting": "village"
+  },
+  {
+    "scene_id": 8,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, an old dark stone Victorian inn with leaded windows glowing amber from within, smoke rising from two chimneys against a dusky autumn sky, ivy climbing the stone walls, inviting warm light",
+    "setting": "inn_exterior"
+  },
+  {
+    "scene_id": 9,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a stone garden path leading to an inn's front door, rosemary and lavender bushes lining the flagstones, rain-darkened stones glistening, warm light spilling from a window ahead",
+    "setting": "inn_exterior"
+  },
+  {
+    "scene_id": 10,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, an elderly grey-haired innkeeper in a cream apron with large gentle hands emerging from a firelit room into a wood-paneled hallway, warm glow behind him, kind weathered face",
+    "setting": "inn_exterior"
+  },
+  {
+    "scene_id": 11,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, close portrait of a kind elderly innkeeper with a weathered gentle face greeting a guest at an open doorway, warm amber hallway light behind him, cream apron, tender welcoming expression",
+    "setting": "inn_exterior"
+  },
+  {
+    "scene_id": 12,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, interior of a cozy Victorian parlour with a roaring fireplace, deep armchairs, oil lamps, dark wood paneling, a woman being led into the room by an innkeeper, warm inviting glow",
+    "setting": "parlour"
+  },
+  {
+    "scene_id": 13,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a tired Victorian woman sinking into a large worn armchair by a crackling fireplace in a parlour, firelight flickering on her face, deep comfort and relief in her posture",
+    "setting": "parlour"
+  },
+  {
+    "scene_id": 14,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, close-up of a chipped blue teapot steaming gently on a small table beside a fireplace, warm firelight glow, teacup and saucer nearby, cozy Victorian parlour setting",
+    "setting": "parlour"
+  },
+  {
+    "scene_id": 15,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a Victorian bedroom with iron-framed white bed thick with quilts, an oil lamp glowing amber on the bedside table, deep evening light through a window, warm inviting stillness",
+    "setting": "bedroom"
+  },
+  {
+    "scene_id": 16,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, view from a Victorian bedroom window overlooking a moonlit garden of rosemary and lavender, a stream visible beyond, soft night light, curtains gently framing the scene",
+    "setting": "bedroom"
+  },
+  {
+    "scene_id": 17,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, close-up of a small dried violet flower resting beside a handwritten note on a bedside table, oil lamp light, soft purple hue against dark wood, tender still life",
+    "setting": "bedroom"
+  },
+  {
+    "scene_id": 18,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a Victorian washstand with a porcelain basin and pitcher, a rough linen towel folded beside it, morning light through lace curtains, rose-tinted water reflections",
+    "setting": "bedroom"
+  },
+  {
+    "scene_id": 19,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a Victorian woman lying in bed with eyes closed, faint moonlight through a window, dreamy peaceful expression, quilts pulled up, warm lamp glow fading into sleep",
+    "setting": "bedroom"
+  },
+  {
+    "scene_id": 20,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, early morning light filling a rustic Victorian kitchen, fresh bread loaves cooling on a wooden table, wood smoke curling from a stove, warm golden glow",
+    "setting": "kitchen"
+  },
+  {
+    "scene_id": 21,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, close-up of an old wooden staircase bannister worn smooth by generations of hands, warm morning light falling across the steps, dust motes floating in sunbeam",
+    "setting": "inn_exterior"
+  },
+  {
+    "scene_id": 22,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a warm parlour scene with a knitted tea cosy covering a pot of tea on a small table, morning sunlight through leaded windows, jug of milk beside it, cozy still life",
+    "setting": "parlour"
+  },
+  {
+    "scene_id": 23,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, close-up of an open antique guestbook with faded brown ink handwriting on aged paper, warm lamp light, a woman's hand resting near the page, Victorian parlour setting",
+    "setting": "parlour"
+  },
+  {
+    "scene_id": 24,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, an elderly Victorian gentleman looking out a bedroom window toward a distant yew tree in a churchyard, soft grey afternoon light, contemplative solitary mood",
+    "setting": "bedroom"
+  },
+  {
+    "scene_id": 25,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a nightstand with a sprig of honeysuckle laid beside an open window, moonlight and distant river visible outside, tender nostalgic atmosphere",
+    "setting": "bedroom"
+  },
+  {
+    "scene_id": 26,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a Victorian woman looking up from an old guestbook toward an innkeeper standing in the parlour doorway, firelight glow, quiet curious expression on her face",
+    "setting": "parlour"
+  },
+  {
+    "scene_id": 27,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, an elderly innkeeper tending a fireplace with an iron poker, warm ember glow lighting his weathered face, dark wood-paneled parlour walls around him",
+    "setting": "parlour"
+  },
+  {
+    "scene_id": 28,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a Victorian breakfast table with eggs, toast, and warm fresh bread, morning light streaming through parlour windows, steam rising gently from the food",
+    "setting": "parlour"
+  },
+  {
+    "scene_id": 29,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a young Victorian woman around twenty-five smiling gently as an innkeeper pours her a second cup of tea, warm breakfast table setting, soft morning light",
+    "setting": "parlour"
+  },
+  {
+    "scene_id": 30,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a Victorian woman walking slowly through a small village street, stone cottages and shopfronts, golden autumn light, unhurried peaceful stroll",
+    "setting": "village"
+  },
+  {
+    "scene_id": 31,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, an elderly vicar sweeping flagstones outside a small stone church with a square tower, autumn leaves scattered, a Victorian woman standing nearby asking a question",
+    "setting": "church"
+  },
+  {
+    "scene_id": 32,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a village bakery counter with fresh currant buns, warm golden light, a baker woman offering bread to a customer, cozy village atmosphere",
+    "setting": "village"
+  },
+  {
+    "scene_id": 33,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a wide view of a small Victorian village nestled in a valley, grey stone rooftops, smoke rising from chimneys, a church tower against amber evening sky, a woman standing on a hillside path looking back",
+    "setting": "village"
+  },
+  {
+    "scene_id": 34,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, an inn's front door standing open with warm firelight spilling out onto the garden path at dusk, inviting golden glow against the cooling evening air",
+    "setting": "inn_exterior"
+  },
+  {
+    "scene_id": 35,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a warm Victorian parlour with several guests gathered near a rebuilt fire, tea things laid out, cozy communal atmosphere, soft lamp light",
+    "setting": "parlour"
+  },
+  {
+    "scene_id": 36,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a rustic Victorian kitchen interior, an oven glowing with early morning fire, warm bread dough rising on a floured wooden table, flour dust in golden light",
+    "setting": "kitchen"
+  },
+  {
+    "scene_id": 37,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, an elderly baker woman in an apron kneading dough at a wooden kitchen table, warm oven glow behind her, flour on her hands, patient focused expression",
+    "setting": "kitchen"
+  },
+  {
+    "scene_id": 38,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, close-up of fresh loaves of bread arranged on a rustic wooden counter, morning light through a kitchen window, steam rising, warm earthy tones",
+    "setting": "kitchen"
+  },
+  {
+    "scene_id": 39,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a Victorian woman pushing open a heavy old church door, warm hinges creaking, dim colored light glowing faintly from within, threshold moment",
+    "setting": "church"
+  },
+  {
+    "scene_id": 40,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, interior of a small stone church with stained glass windows casting shafts of blue gold and red light, dust motes floating, quiet reverent atmosphere, empty wooden pews",
+    "setting": "church"
+  },
+  {
+    "scene_id": 41,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, close-up of embroidered kneeling cushions in a church pew, intricate wool needlework patterns, soft colored light from stained glass windows above",
+    "setting": "church"
+  },
+  {
+    "scene_id": 42,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, close-up detail of an embroidered cushion depicting a small inn, fine wool stitching, warm stained-glass light falling across the fabric texture",
+    "setting": "church"
+  },
+  {
+    "scene_id": 43,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a woman sitting on a weathered oak bench beside a slow-moving river, golden autumn trees reflected in dark honey-colored water, peaceful solitude",
+    "setting": "river"
+  },
+  {
+    "scene_id": 44,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a grey heron standing motionless in shallow river water, one leg raised, autumn reeds around it, still golden light reflecting on the water surface",
+    "setting": "river"
+  },
+  {
+    "scene_id": 45,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a heron striking the water with its beak, catching a small silver fish, droplets flying, dynamic motion frozen in golden river light",
+    "setting": "river"
+  },
+  {
+    "scene_id": 46,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a Victorian post office interior, a tall postmistress with spectacles sorting letters into wooden pigeonholes, warm afternoon light through a shop window",
+    "setting": "village"
+  },
+  {
+    "scene_id": 47,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, an elderly innkeeper and a postmistress in quiet conversation at a village post office counter, warm light, letters and stamps visible, gentle village courtesy",
+    "setting": "village"
+  },
+  {
+    "scene_id": 48,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, close-up of stamps and envelopes being sorted by hand at a wooden post office counter, warm golden light, careful weathered hands at work",
+    "setting": "village"
+  },
+  {
+    "scene_id": 49,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a Victorian woman with damp travel-worn clothes stepping through an inn's front door at night, rain visible outside, warm hearth glow welcoming her in, relief on her face",
+    "setting": "inn_exterior"
+  },
+  {
+    "scene_id": 50,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, villagers gathered near the old stone inn at dusk, gesturing toward it with familiar affectionate expressions, warm chimney smoke rising, golden light",
+    "setting": "inn_exterior"
+  },
+  {
+    "scene_id": 51,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, close-up of handwritten letters tied with ribbon on a parlour writing desk, soft lamp light, quiet domestic Victorian scene, warm sepia tones",
+    "setting": "parlour"
+  },
+  {
+    "scene_id": 52,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, an elderly middle-aged Victorian woman arriving at the inn's door carrying a heavy carpet bag, greeted warmly by the innkeeper, dusk light and glowing doorway",
+    "setting": "inn_exterior"
+  },
+  {
+    "scene_id": 53,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a south-facing Victorian bedroom bathed in warm afternoon light, curtains gently billowing, a woman standing in the doorway looking inside with wonder",
+    "setting": "bedroom"
+  },
+  {
+    "scene_id": 54,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a Victorian woman sitting on the edge of a bed with eyes closed, listening intently, warm lamplight, an expression of quiet grief and recognition",
+    "setting": "bedroom"
+  },
+  {
+    "scene_id": 55,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a Victorian woman waking peacefully in a sunlit bedroom, soft morning light through curtains, contented restful expression, quilts pulled around her",
+    "setting": "bedroom"
+  },
+  {
+    "scene_id": 56,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a young Victorian gentleman at a breakfast table, his posture slightly eased, soft morning light, faint relief visible in his face, tea and toast before him",
+    "setting": "parlour"
+  },
+  {
+    "scene_id": 57,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a young Victorian man smiling warmly and shaking an innkeeper's hand near the inn's front door before departing, dawn light, sense of quiet gratitude",
+    "setting": "inn_exterior"
+  },
+  {
+    "scene_id": 58,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, an elderly Victorian doctor standing in a bedroom doorway looking around in mild confusion at an empty mantelpiece and bedside table, soft afternoon light, curious expression",
+    "setting": "bedroom"
+  },
+  {
+    "scene_id": 59,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a distinguished elderly gentleman reading by a window in a quiet Victorian bedroom, warm afternoon light, a sense of ease and unburdened stillness",
+    "setting": "bedroom"
+  },
+  {
+    "scene_id": 60,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, an armchair by a west-facing window with a green blanket folded over it, warm afternoon light, a fire already built low and glowing, prepared for an expected guest",
+    "setting": "bedroom"
+  },
+  {
+    "scene_id": 61,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, an elderly Victorian woman settling into a familiar armchair by a window with the contented nod of someone coming home, warm lamp light, innkeeper standing nearby",
+    "setting": "parlour"
+  },
+  {
+    "scene_id": 62,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, an elderly Victorian woman sitting quietly and contentedly in a parlour chair, soft firelight, a sense of complete peaceful stillness on her face",
+    "setting": "parlour"
+  },
+  {
+    "scene_id": 63,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, two Victorian women speaking quietly by a parlour fire in the evening, one leaning forward as if confiding something long carried, warm intimate lamp light",
+    "setting": "parlour"
+  },
+  {
+    "scene_id": 64,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a middle-aged Victorian woman painter sitting with her hands still, a look of quiet confusion and loss in her eyes, muted colors around her, soft window light",
+    "setting": "bedroom"
+  },
+  {
+    "scene_id": 65,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, close-up of a stained glass fragment hanging in a window, casting deep blue violet and amber light across a wooden windowsill, morning sun behind it",
+    "setting": "bedroom"
+  },
+  {
+    "scene_id": 66,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a Victorian woman painter sitting very still with hands in her lap, colored light from a stained glass fragment falling across her fingers and face, tears of quiet recognition, deeply moving expression",
+    "setting": "bedroom"
+  },
+  {
+    "scene_id": 67,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, close-up portrait of a Victorian woman's eyes transforming from dull to bright, soft window light, subtle emotional awakening, painterly detail",
+    "setting": "bedroom"
+  },
+  {
+    "scene_id": 68,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a Victorian woman painter sitting peacefully by a window with banked coals glowing nearby, soft warm light, a sense of restored inner stillness",
+    "setting": "bedroom"
+  },
+  {
+    "scene_id": 69,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a tall precise elderly Victorian gentleman with white hair combed exactly, buttoned waistcoat, polished shoes, standing formally with a small bag, arriving at the inn",
+    "setting": "inn_exterior"
+  },
+  {
+    "scene_id": 70,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, an elderly gentleman standing in the doorway of a nearly empty quiet Victorian bedroom at the end of a hallway, soft evening light, contemplative uncertain posture",
+    "setting": "bedroom"
+  },
+  {
+    "scene_id": 71,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a sparse peaceful Victorian bedroom with a wide window overlooking green and grey hills in fading light, no clutter, calm empty simplicity",
+    "setting": "bedroom"
+  },
+  {
+    "scene_id": 72,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, an elderly precise gentleman sitting in a chair by a window, hands resting still in his lap after years of habitual busyness, watching a fire and the view beyond, soft evening glow",
+    "setting": "bedroom"
+  },
+  {
+    "scene_id": 73,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, an elderly gentleman seated by a window watching changing light on distant hills over several days, fire shifting and resettling beside him, warm content stillness",
+    "setting": "bedroom"
+  },
+  {
+    "scene_id": 74,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, an elderly precise gentleman sitting quietly doing nothing, gazing at a fire, a rare peaceful expression of self-reflection, warm firelight on his face",
+    "setting": "bedroom"
+  },
+  {
+    "scene_id": 75,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, an elderly gentleman shaking an innkeeper's hand at the front door on a frosty December morning, breath visible in cold air, woodsmoke scent implied, warm parting light",
+    "setting": "inn_exterior"
+  },
+  {
+    "scene_id": 76,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a close view of an old wooden floorboard creaking under a footstep, warm hallway light, a sense of the inn quietly noticing and listening",
+    "setting": "inn_exterior"
+  },
+  {
+    "scene_id": 77,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a warm glowing Victorian parlour interior, empty of people, fire crackling steadily, blanket draped over a chair, embodying quiet steady comfort",
+    "setting": "parlour"
+  },
+  {
+    "scene_id": 78,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a distant memory-like soft-focus image of a warm cottage interior, muslin bags of dried herbs hanging in a linen cupboard, golden nostalgic light",
+    "setting": "kitchen"
+  },
+  {
+    "scene_id": 79,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a Victorian library reading room with tall bookshelves arranged by acquisition date, soft window light, a young woman quietly reading among the stacks",
+    "setting": "abstract"
+  },
+  {
+    "scene_id": 80,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, close-up of old library shelves, worn leather book spines, dust motes in soft light, a section that smells of poetry implied through warm inviting glow",
+    "setting": "abstract"
+  },
+  {
+    "scene_id": 81,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a young Victorian woman working alone at a library counter, clock on the wall behind her nearly unnoticed, muted afternoon light, quiet routine weariness",
+    "setting": "abstract"
+  },
+  {
+    "scene_id": 82,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a lonely Victorian boarding house room, a single chair by a window, soft grey city light, a neighbor's bowl of soup left on a small table, quiet solitude",
+    "setting": "bedroom"
+  },
+  {
+    "scene_id": 83,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a small walled Victorian cottage garden bursting with roses lavender thyme mint sweet williams and violets, warm afternoon sun, brick walls and wooden fence enclosing it",
+    "setting": "garden"
+  },
+  {
+    "scene_id": 84,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a Victorian mother kneeling in a garden path with hands in dark rich soil, tending plants with quiet attentive care, warm dappled sunlight through leaves",
+    "setting": "garden"
+  },
+  {
+    "scene_id": 85,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a young Victorian woman standing in a sparse rented room holding a letter, grief on her face, cold grey light through a window, distant memory of a lost garden",
+    "setting": "bedroom"
+  },
+  {
+    "scene_id": 86,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a Victorian woman walking through a grey industrial Leeds street, cataloguing books mechanically in her mind, muted cool tones, weary detached expression",
+    "setting": "village"
+  },
+  {
+    "scene_id": 87,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a Victorian woman sitting in the warm firelit inn parlour with an unfolded letter in her lap, a look of profound quiet relief spreading across her face",
+    "setting": "parlour"
+  },
+  {
+    "scene_id": 88,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, an elderly innkeeper and a woman sitting quietly by a fire as rain falls outside a window, warm lamp light, a hallway clock ticking, gentle contemplative mood",
+    "setting": "parlour"
+  },
+  {
+    "scene_id": 89,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a woman sitting alone by a dying fire late at night, an old guestbook warm in her hands, rain against the windows, deep peaceful solitude",
+    "setting": "parlour"
+  },
+  {
+    "scene_id": 90,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, close-up of a woman's thoughtful face lit by firelight, a quiet dawning realization in her eyes, warm parlour surroundings softly blurred behind her",
+    "setting": "parlour"
+  },
+  {
+    "scene_id": 91,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a Victorian woman drying peppermint leaves on a rack above a kitchen stove, warm afternoon light, herbs and jars around her, purposeful domestic calm",
+    "setting": "kitchen"
+  },
+  {
+    "scene_id": 92,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, thick unhurried snow falling straight down over a Victorian garden lane and hills at dusk, windless quiet, warm inn windows glowing amber in the distance",
+    "setting": "inn_exterior"
+  },
+  {
+    "scene_id": 93,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a middle-aged stranger woman covered in snow standing at an inn's threshold, red-cheeked and cold, white coat and hat dusted with snow, uncertain expression",
+    "setting": "inn_exterior"
+  },
+  {
+    "scene_id": 94,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a Victorian woman reaching for a small pan milk jug and tin of chocolate on a stove, warm kitchen firelight, intuitive caring gesture",
+    "setting": "kitchen"
+  },
+  {
+    "scene_id": 95,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, close-up of hot chocolate being stirred in a pan on a stove, rich dark milk with a pinch of cinnamon, warm steam rising, cozy kitchen glow",
+    "setting": "kitchen"
+  },
+  {
+    "scene_id": 96,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a snow-dusted stranger woman sitting by a warm fire in the inn parlour, eyes closed, drinking hot chocolate, snow visible falling outside the window",
+    "setting": "parlour"
+  },
+  {
+    "scene_id": 97,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a Victorian woman's hands passing a steaming cup of chocolate to a guest, warm firelight, a quiet moment of intuitive knowing and connection",
+    "setting": "parlour"
+  },
+  {
+    "scene_id": 98,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, an early spring morning with pale sky and budding trees around a Victorian inn, soft new light, a sense of gentle awakening after winter",
+    "setting": "inn_exterior"
+  },
+  {
+    "scene_id": 99,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a Victorian woman pushing open old parlour window latches with her palms, fresh cool air and birdsong entering, morning light streaming in, thrush and blackbird visible outside",
+    "setting": "parlour"
+  },
+  {
+    "scene_id": 100,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a Victorian woman standing in an open doorway of the inn, breathing in deeply as spring air fills the building, soft golden morning light, sense of expansion and renewal",
+    "setting": "inn_exterior"
+  },
+  {
+    "scene_id": 101,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, close-up of a worn wooden staircase landing floorboard, warm afternoon light, a subtle sense of the inn's quiet awareness of footsteps",
+    "setting": "inn_exterior"
+  },
+  {
+    "scene_id": 102,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a Victorian woman checking a window latch at night, warm firelight behind her, cold night visible through the glass, attentive protective gesture",
+    "setting": "bedroom"
+  },
+  {
+    "scene_id": 103,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a Victorian garden in full spring bloom, rosemary lavender thyme daffodils and blossoms exploding with color, warm bright sunlight, vibrant lush growth",
+    "setting": "garden"
+  },
+  {
+    "scene_id": 104,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, an elderly woman visitor delighted at the sight of honeysuckle in a garden, a Victorian innkeeper woman standing beside her smiling knowingly, warm spring light",
+    "setting": "garden"
+  },
+  {
+    "scene_id": 105,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a golden summer landscape with long warm days transitioning into autumn colors, rolling green hills and wide sky, a peaceful passage of seasons",
+    "setting": "village"
+  },
+  {
+    "scene_id": 106,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, an aging Victorian innkeeper with large gentle hands moving steadily through the inn, slightly stiff in his motions, warm autumn light through hallway windows",
+    "setting": "inn_exterior"
+  },
+  {
+    "scene_id": 107,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, guests and an innkeeper gathered warmly around a fire during a snowstorm, sharing food blankets and stories, cozy candlelit parlour scene, deep bond and shelter",
+    "setting": "parlour"
+  },
+  {
+    "scene_id": 108,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a Victorian mother weeping quietly and gratefully at a breakfast table while an elderly innkeeper pours her tea, warm morning light, tender emotional scene",
+    "setting": "parlour"
+  },
+  {
+    "scene_id": 109,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a young Victorian woman standing at a garden gate, weary searching eyes, autumn light, carrying the look of someone who has been looking for something for a long time",
+    "setting": "inn_exterior"
+  },
+  {
+    "scene_id": 110,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a middle-aged Victorian woman now the innkeeper greeting a young weary traveler at the inn's open door, warm firelight glow, expression of relief and welcome",
+    "setting": "inn_exterior"
+  },
+  {
+    "scene_id": 111,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a Victorian woman hanging a damp coat carefully on a peg by an inn's front door, warm hallway light, tender caretaking gesture reminiscent of an old mentor",
+    "setting": "inn_exterior"
+  },
+  {
+    "scene_id": 112,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, close-up of an open guestbook on a parlour table, a new entry in steady handwriting, warm firelight, a sense of continuity and quiet legacy",
+    "setting": "parlour"
+  },
+  {
+    "scene_id": 113,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, two Victorian women sitting quietly together by a warm parlour fire, one older one younger, comfortable silence between them, soft golden firelight",
+    "setting": "parlour"
+  },
+  {
+    "scene_id": 114,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a peaceful warm Victorian bedroom at night, a figure resting deeply under quilts, oil lamp dimmed low, soft shadows, utterly calm and unhurried atmosphere",
+    "setting": "bedroom"
+  },
+  {
+    "scene_id": 115,
+    "prompt": "Victorian era oil painting illustration, painterly brushstrokes, warm muted earth tones, detailed period-accurate clothing and architecture, soft atmospheric lighting, no text, no watermarks, 16:9 aspect ratio, a dark stone Victorian inn glowing warmly from within at night, all windows lit softly amber, smoke curling from chimneys into a starry sky, deeply peaceful farewell image",
+    "setting": "inn_exterior"
+  }
+]

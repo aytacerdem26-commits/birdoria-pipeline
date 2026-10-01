@@ -1,0 +1,237 @@
+{
+  "project": "Why Do Humans Kiss? — Act 1: Kissing isn't universal",
+  "section": "act1",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "voice": {
+    "name": "Brian",
+    "provider": "elevenlabs",
+    "voiceId": "nPczCjzI2devNBz1zQrb",
+    "wpmRaw": 143.2,
+    "secPerWord": 0.419,
+    "paced": false
+  },
+  "voDir": "vo-act1",
+  "lines": [
+    {
+      "id": "A01",
+      "bg": "white",
+      "text": "Start with the map. Because the map is where the whole thing falls apart.",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "asset": "worldMap",
+            "opts": {
+              "dots": "none"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "A02",
+      "bg": "white",
+      "text": "The 2015 survey was led by an anthropologist named William Jankowiak.",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "img": "A02.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "A03",
+      "bg": "white",
+      "text": "It's the largest study of its kind, and romantic kissing showed up in less than half the cultures on record.",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "asset": "worldMap",
+            "opts": {
+              "dots": "split"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "A04",
+      "bg": "field",
+      "text": "And it was least common in the small foraging groups, the people living closest to how humans lived for most of our history.",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "img": "A04.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "A05",
+      "bg": "white",
+      "text": "That is the opposite of what you'd expect from an instinct.",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "asset": "scale",
+            "opts": {
+              "left": "INSTINCT",
+              "right": "?",
+              "tip": "right"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "A06",
+      "bg": "field",
+      "text": "Some cultures greet with the nose instead.",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "img": "A06.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "A07",
+      "bg": "field",
+      "text": "The Inuit kunik isn't a kiss. You press your nose to someone's skin, and you breathe in.",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "img": "A07.jpg"
+          },
+          "text": {
+            "content": "KUNIK",
+            "pos": "top"
+          }
+        }
+      ]
+    },
+    {
+      "id": "A08",
+      "bg": "white",
+      "text": "You're not tasting them. You're smelling them.",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "img": "A08.jpg"
+          },
+          "text": {
+            "content": "SMELLING",
+            "pos": "bottom"
+          }
+        }
+      ]
+    },
+    {
+      "id": "A09",
+      "bg": "field",
+      "text": "Other cultures press their foreheads together. Some just sniff a cheek.",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "img": "A09.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "A10",
+      "bg": "white",
+      "text": "All over the world, humans reach for each other's faces. But the mouth is not the default.",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "asset": "greetingRow",
+            "opts": {
+              "highlight": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "A11",
+      "bg": "white",
+      "text": "It's just one option among many.",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "asset": "greetingRow",
+            "opts": {
+              "highlight": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "A12",
+      "bg": "white",
+      "text": "So kissing looks cultural. A habit some places invented, and others simply skipped.",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "asset": "worldMap",
+            "opts": {
+              "dots": "split"
+            }
+          },
+          "text": {
+            "content": "CULTURAL?",
+            "pos": "top"
+          }
+        }
+      ]
+    },
+    {
+      "id": "A13",
+      "bg": "warm",
+      "text": "A habit. Not an instinct.",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "asset": "scale",
+            "opts": {
+              "left": "HABIT",
+              "right": "INSTINCT",
+              "tip": "left"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "A14",
+      "bg": "white",
+      "text": "Except that isn't the whole picture either.",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "asset": "blank"
+          }
+        }
+      ]
+    }
+  ]
+}

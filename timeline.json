@@ -1,0 +1,268 @@
+{
+  "project": "Why Do Humans Kiss? (Most of Us Don't)",
+  "section": "HOOK",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "voice": {
+    "name": "Brian",
+    "provider": "elevenlabs",
+    "voiceId": "nPczCjzI2devNBz1zQrb",
+    "wpmRaw": 143.2,
+    "wpmPaced": 202.0,
+    "secPerWord": 0.297,
+    "paced": true,
+    "source": "~/Desktop/youutube ar/body-channel/video-01-hormones/vo/ (12 dosya, 1588 kelime, 665 sn)",
+    "note": "0.297 = pace.sh sonrasi (duraklama kirpma + 1.06x). Kirpilmamis Brian icin 0.419 kullan."
+  },
+  "voDir": "vo",
+  "lines": [
+    {
+      "id": "L01",
+      "text": "Right now, somewhere in the world, two people are pressing their mouths together.",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "img": "L01.jpg"
+          }
+        }
+      ],
+      "bg": "white"
+    },
+    {
+      "id": "L02",
+      "text": "It's one of the most ordinary things a human being can do.",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "img": "L02.jpg"
+          }
+        }
+      ],
+      "bg": "white"
+    },
+    {
+      "id": "L03",
+      "text": "You've probably done it.",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "img": "L03.jpg"
+          }
+        }
+      ],
+      "bg": "white"
+    },
+    {
+      "id": "L04",
+      "text": "And nobody ever sat you down and taught you how.",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "img": "L04.jpg"
+          }
+        },
+        {
+          "at": 0.62,
+          "scene": {
+            "img": "L04.jpg",
+            "overlay": {
+              "cross": true,
+              "box": [
+                150,
+                40,
+                150,
+                78
+              ]
+            }
+          }
+        }
+      ],
+      "bg": "white"
+    },
+    {
+      "id": "L05",
+      "text": "So here's something strange.",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "img": "L05.jpg"
+          }
+        }
+      ],
+      "bg": "white"
+    },
+    {
+      "id": "L06",
+      "text": "When anthropologists went looking for kissing around the world, they had trouble finding it.",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "asset": "worldMap",
+            "opts": {
+              "dots": "none"
+            }
+          }
+        },
+        {
+          "at": 0.6,
+          "scene": {
+            "asset": "worldMap",
+            "opts": {
+              "dots": "none",
+              "magnifier": true
+            }
+          }
+        }
+      ],
+      "bg": "white"
+    },
+    {
+      "id": "L07",
+      "text": "Not in every culture. Not in most cultures.",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "asset": "worldMap",
+            "opts": {
+              "dots": "gray"
+            }
+          }
+        }
+      ],
+      "bg": "white"
+    },
+    {
+      "id": "L08",
+      "text": "In 2015, a team surveyed 168 societies across the planet.",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "asset": "worldMap",
+            "opts": {
+              "dots": "gray"
+            }
+          },
+          "text": {
+            "content": "2015",
+            "pos": "top-right"
+          }
+        }
+      ],
+      "bg": "white"
+    },
+    {
+      "id": "L09",
+      "text": "They found romantic kissing in 77 of them.",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "asset": "worldMap",
+            "opts": {
+              "dots": "split"
+            }
+          },
+          "text": {
+            "content": "2015",
+            "pos": "top-right"
+          }
+        }
+      ],
+      "bg": "white"
+    },
+    {
+      "id": "L10",
+      "text": "Fewer than half.",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "asset": "blank"
+          },
+          "text": {
+            "content": "77 / 168",
+            "pos": "center-huge"
+          }
+        }
+      ],
+      "bg": "warm"
+    },
+    {
+      "id": "L11",
+      "text": "And in some of those other cultures, when people first saw Europeans do it, they were disgusted.",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "img": "L11.jpg"
+          }
+        }
+      ],
+      "bg": "white"
+    },
+    {
+      "id": "L12",
+      "text": "They asked why anyone would willingly share another person's saliva.",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "img": "L12.jpg"
+          }
+        }
+      ],
+      "bg": "white"
+    },
+    {
+      "id": "L13",
+      "text": "Which leaves a problem.",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "img": "L13.jpg"
+          }
+        }
+      ],
+      "bg": "white"
+    },
+    {
+      "id": "L14",
+      "text": "If kissing isn't something all humans do, then what is it? Where did it come from?",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "asset": "worldMap",
+            "opts": {
+              "dots": "split"
+            }
+          }
+        }
+      ],
+      "bg": "white"
+    },
+    {
+      "id": "L15",
+      "text": "And why does your body seem to already know how?",
+      "beats": [
+        {
+          "at": 0.0,
+          "scene": {
+            "img": "L15.jpg"
+          }
+        }
+      ],
+      "bg": "white"
+    }
+  ]
+}

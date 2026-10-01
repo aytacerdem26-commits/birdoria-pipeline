@@ -1,0 +1,9 @@
+- [Birdoria Board System](birdoria-board-system.md) — 9-agent kurul: 3 araştırma (rakip+trend+fikir) + 6 değerlendirme + Baş Editör sentezi
+- [UK K9 Channel Venture](project_uk-k9-channel.md) — yeni AI-video kanal: UK SAS/Royal Marines K9, Dutch Shepherd, THE UNIT K9 SPECIAL OPS formatı klonu
+- [Victorian Sleep Hybrid Production](victorian-sleep-hybrid-production.md) — hibrit üretim: %50-60 AI karakter + %30-40 stok atmosfer + Ken Burns, sleep-story tempo
+- [Victorian Sleep Part Checklist](victorian-sleep-part-checklist.md) — her part sonunda: tam klip kontrolü (kare kare, tek kare değil) + kısa klipleri hard loop ile hedef süreye tamamla
+- [Wildlife Rescue Shorts Channel](project_wildlife-rescue-shorts-channel.md) — yeni kanal: Mundos Salvajes formatının İngilizce klonu, POV rescue shorts, 60sn AI-generated
+- [Victorian Whiteboard Clone Channel](project_victorian-whiteboard-clone-channel.md) — yeni kanal: Ink Explainer whiteboard formülü + Victorian dönem, sleep-hybrid'den FARKLI proje
+- [Library of Sophia Voice](project_library-of-sophia-voice.md) — kanalın sabit genaipro TTS voice_id: jfIS2w2yJi0grJZPyEsk
+- [Psyche Prism Studio Voice](project_psyche-prism-studio-voice.md) — kanalın sabit genaipro TTS voice_id: J9NvviOEdVm6E7Hwdpdj
+- [Library of Sophia Packaging Lessons](library-of-sophia-packaging-lessons.md) — warm book-cover thumbnail denendi, CTR %2.3 ile reddedildi; video 8+ flat black-background + direkt merak formülüne dönüldü. TTS öncesi duplicate-paragraf kontrolü hâlâ geçerli.

@@ -1,0 +1,674 @@
+[
+ {
+  "num": 1,
+  "time": "00:00.00",
+  "dur": "48.3s",
+  "type": "AI",
+  "desc": "Hollis in bakehouse doorway watching Meg cross the yard at night",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 with a weathered kind face standing in the doorway of a small stone bakehouse at night, holding a candle-lantern, watching a girl of 16 cross a dark yard toward him, her shawl pulled tight against the November chill, boots too big for her feet, cold blue night light, warm lantern glow spilling from the doorway No text, no watermarks."
+ },
+ {
+  "num": 2,
+  "time": "00:48.33",
+  "dur": "31.8s",
+  "type": "AI",
+  "desc": "You're early / Meg follows him inside",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 in the lit doorway of a stone bakehouse speaking to a girl of 16 standing just outside, warm lantern light on both their faces, cold dark yard behind her, gentle welcoming exchange No text, no watermarks."
+ },
+ {
+  "num": 3,
+  "time": "01:20.13",
+  "dur": "62.3s",
+  "type": "STOCK",
+  "desc": "Bakehouse interior establishing, cold oven, empty trough table",
+  "prompt": "old stone bakery interior empty cold oven brick dome rustic"
+ },
+ {
+  "num": 4,
+  "time": "02:22.45",
+  "dur": "69.1s",
+  "type": "AI",
+  "desc": "First thing is the fire \u2014 Hollis explains, Meg smiles",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 setting a lantern on a wall hook inside a low stone bakehouse, speaking earnestly to a girl of 16 who smiles for the first time, a great cold brick oven dome visible behind them, warm lantern light No text, no watermarks."
+ },
+ {
+  "num": 5,
+  "time": "03:31.55",
+  "dur": "39.0s",
+  "type": "AI",
+  "desc": "Hollis shows the firebox and kindling technique",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 crouched beside the small iron firebox door of a brick oven, showing a girl of 16 how to lay kindling in a loose lattice, warm lantern light, close teaching moment No text, no watermarks."
+ },
+ {
+  "num": 6,
+  "time": "04:10.56",
+  "dur": "55.1s",
+  "type": "AI",
+  "desc": "Hollis reflects on the worn habit of the lesson",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 crouched at an oven firebox, a quiet thoughtful expression, lantern light warm on his weathered face, a girl of 16 watching attentively beside him No text, no watermarks."
+ },
+ {
+  "num": 7,
+  "time": "05:05.67",
+  "dur": "23.3s",
+  "type": "AI",
+  "desc": "Meg lights the first fire",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A girl of 16 kneeling at a small iron firebox door, orange firelight catching her face as kindling catches flame, a man of 61 watching proudly beside her, dark stone bakehouse around them No text, no watermarks."
+ },
+ {
+  "num": 8,
+  "time": "05:28.99",
+  "dur": "46.2s",
+  "type": "STOCK",
+  "desc": "Firelight through the iron door seam, room warming",
+  "prompt": "fire glow through iron door crack dark room warm light closeup"
+ },
+ {
+  "num": 9,
+  "time": "06:15.20",
+  "dur": "45.8s",
+  "type": "AI",
+  "desc": "Why only one window \u2014 Hollis explains the bakehouse's purpose",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 and a girl of 16 standing in a warm stone bakehouse, he gesturing toward a single small high window, explaining something earnestly, lantern light, low beamed ceiling No text, no watermarks."
+ },
+ {
+  "num": 10,
+  "time": "07:00.99",
+  "dur": "92.0s",
+  "type": "STOCK",
+  "desc": "Bakehouse details: dried herbs on beams, notched trough table",
+  "prompt": "dried herbs hanging rustic wooden beam kitchen vintage closeup"
+ },
+ {
+  "num": 11,
+  "time": "08:32.98",
+  "dur": "87.3s",
+  "type": "AI",
+  "desc": "Hollis explains the night's rhythm and long waiting ahead",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 speaking to a girl of 16 in a warm lantern-lit stone bakehouse, a long wooden trough table between them, sacks of flour along the wall, a great oven behind, quiet instructive moment No text, no watermarks."
+ },
+ {
+  "num": 12,
+  "time": "10:00.32",
+  "dur": "44.9s",
+  "type": "AI",
+  "desc": "Setting up sieves and flour",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 setting two wide sieves and sacks of flour on a long wooden trough table beside a girl of 16, lantern light, stone bakehouse interior No text, no watermarks."
+ },
+ {
+  "num": 13,
+  "time": "10:45.26",
+  "dur": "62.7s",
+  "type": "STOCK",
+  "desc": "Millbrook village asleep at night, quiet lane",
+  "prompt": "english village night quiet lane stone cottages dark sleeping"
+ },
+ {
+  "num": 14,
+  "time": "11:48.00",
+  "dur": "44.5s",
+  "type": "STOCK",
+  "desc": "Flour dust glowing in lantern light",
+  "prompt": "flour dust cloud light beam closeup baking rustic"
+ },
+ {
+  "num": 15,
+  "time": "12:32.52",
+  "dur": "114.0s",
+  "type": "AI",
+  "desc": "Meg sieves flour, talks of her siblings",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A girl of 16 sieving flour at a wooden trough table, fine flour falling in the lantern light, a man of 61 listening warmly nearby, stone bakehouse interior No text, no watermarks."
+ },
+ {
+  "num": 16,
+  "time": "14:26.56",
+  "dur": "90.3s",
+  "type": "AI",
+  "desc": "Hollis tends the barm starter, explains its age",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 lifting a cloth from an old covered stoneware crock behind a brick oven, a girl of 16 leaning in curiously to look, warm lantern light, stone bakehouse No text, no watermarks."
+ },
+ {
+  "num": 17,
+  "time": "15:56.86",
+  "dur": "45.8s",
+  "type": "AI",
+  "desc": "The barm crock revealed \u2014 'kept alive, and fed'",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. Close view of a man of 61's weathered hands holding back a cloth over an old stoneware crock, pale bubbled sourdough starter visible inside, a girl of 16 watching with quiet wonder, warm lantern light No text, no watermarks."
+ },
+ {
+  "num": 18,
+  "time": "16:42.65",
+  "dur": "76.7s",
+  "type": "AI",
+  "desc": "What happens if it dies \u2014 Meg understands the inheritance",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A girl of 16 looking thoughtfully at an old stoneware crock on a wooden shelf, a man of 61 standing beside her, warm lantern light, stone bakehouse interior, quiet contemplative mood No text, no watermarks."
+ },
+ {
+  "num": 19,
+  "time": "17:59.39",
+  "dur": "47.5s",
+  "type": "AI",
+  "desc": "Making the well in the flour heap",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 showing a girl of 16 how to press a crater into a heap of pale flour on a wooden trough table, lantern light, close hands-on teaching moment No text, no watermarks."
+ },
+ {
+  "num": 20,
+  "time": "18:46.87",
+  "dur": "32.6s",
+  "type": "AI",
+  "desc": "The water mistake begins \u2014 Meg reaches for the hot jug",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A girl of 16 tilting a steaming jug of water over a flour well on a wooden table, a man of 61 reaching quickly to catch her wrist, urgent gentle motion, warm lantern light, stone bakehouse No text, no watermarks."
+ },
+ {
+  "num": 21,
+  "time": "19:19.52",
+  "dur": "55.1s",
+  "type": "AI",
+  "desc": "Hollis explains the danger, Meg's shame",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 holding a girl of 16's hand near a steaming jug, explaining something seriously, her face tight with quiet embarrassment, warm lantern light, close teaching moment No text, no watermarks."
+ },
+ {
+  "num": 22,
+  "time": "20:14.63",
+  "dur": "74.2s",
+  "type": "AI",
+  "desc": "The lesson lands \u2014 Meg waits and retests the water",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A girl of 16 testing the temperature of water against her wrist over a steaming jug, watchful and careful, a man of 61 nearby, lantern-lit stone bakehouse No text, no watermarks."
+ },
+ {
+  "num": 23,
+  "time": "21:28.82",
+  "dur": "31.8s",
+  "type": "AI",
+  "desc": "Mixing the barm into the water, beginning the dough",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 and a girl of 16 with hands together in a wide flour well on a wooden trough table, drawing flour and water into a shaggy dough, warm lantern light No text, no watermarks."
+ },
+ {
+  "num": 24,
+  "time": "22:00.62",
+  "dur": "62.3s",
+  "type": "AI",
+  "desc": "The kneading begins \u2014 Hollis explains its purpose",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 turning a rough mass of pale dough onto a floured wooden table, a girl of 16 watching closely, warm lantern light, stone bakehouse interior No text, no watermarks."
+ },
+ {
+  "num": 25,
+  "time": "23:02.94",
+  "dur": "72.9s",
+  "type": "AI",
+  "desc": "Hollis demonstrates kneading, Meg struggles",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 kneading dough with practiced rhythm on a wooden table, a girl of 16 beside him kneading her own portion clumsily, flour dust in lantern light, close hands-on scene No text, no watermarks."
+ },
+ {
+  "num": 26,
+  "time": "24:15.86",
+  "dur": "27.6s",
+  "type": "AI",
+  "desc": "Hollis guides her hands, 'you have it'",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 standing behind a girl of 16 at a trough table, his weathered hands resting lightly over hers guiding a kneading motion, warm lantern light, tender teaching moment No text, no watermarks."
+ },
+ {
+  "num": 27,
+  "time": "24:43.42",
+  "dur": "40.7s",
+  "type": "STOCK",
+  "desc": "Close-up hands kneading dough rhythmically",
+  "prompt": "hands kneading bread dough closeup rustic wooden table flour"
+ },
+ {
+  "num": 28,
+  "time": "25:24.12",
+  "dur": "67.8s",
+  "type": "AI",
+  "desc": "Were you always going to be a baker \u2014 Hollis reflects",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 kneading dough thoughtfully at a wooden table, a girl of 16 across from him listening, warm lantern light, quiet reflective conversation, stone bakehouse No text, no watermarks."
+ },
+ {
+  "num": 29,
+  "time": "26:31.95",
+  "dur": "46.2s",
+  "type": "AI",
+  "desc": "Hollis speaks of Grace, his late wife",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 pausing over his kneading, a faraway tender expression, a girl of 16 watching him gently, warm lantern light, stone bakehouse interior, quiet emotional moment No text, no watermarks."
+ },
+ {
+  "num": 30,
+  "time": "27:18.16",
+  "dur": "48.3s",
+  "type": "AI",
+  "desc": "What was she like \u2014 Hollis remembers Grace",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 speaking softly at a trough table, dough beneath his hands, a girl of 16 listening with quiet sympathy, warm lantern light, tender nostalgic mood No text, no watermarks."
+ },
+ {
+  "num": 31,
+  "time": "28:06.49",
+  "dur": "10.6s",
+  "type": "STOCK",
+  "desc": "A faint old burn scar on a wooden beam by the door",
+  "prompt": "old wooden beam burn mark scorch closeup rustic vintage"
+ },
+ {
+  "num": 32,
+  "time": "28:17.09",
+  "dur": "95.8s",
+  "type": "AI",
+  "desc": "Hollis speaks of his son in Bristol",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 kneading dough, speaking with quiet resignation and affection, a girl of 16 listening attentively across the table, warm lantern light, stone bakehouse No text, no watermarks."
+ },
+ {
+  "num": 33,
+  "time": "29:52.90",
+  "dur": "57.2s",
+  "type": "AI",
+  "desc": "Do you miss him terribly \u2014 grief for the living",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 with a thoughtful melancholy expression at a wooden trough table, dough beneath his hands, a girl of 16 watching him with quiet care, warm lantern light No text, no watermarks."
+ },
+ {
+  "num": 34,
+  "time": "30:50.14",
+  "dur": "42.8s",
+  "type": "AI",
+  "desc": "Meg mentions Tam Aldous and the marriage question",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A girl of 16 kneading dough with more force than needed, a troubled thoughtful expression, a man of 61 watching her closely, warm lantern light, stone bakehouse No text, no watermarks."
+ },
+ {
+  "num": 35,
+  "time": "31:32.96",
+  "dur": "51.7s",
+  "type": "AI",
+  "desc": "The trade, or the not-being-decided-for \u2014 Hollis's advice",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 speaking earnestly to a girl of 16 across a wooden trough table, both hands still in dough, warm lantern light, a serious tender exchange No text, no watermarks."
+ },
+ {
+  "num": 36,
+  "time": "32:24.68",
+  "dur": "74.2s",
+  "type": "AI",
+  "desc": "Does your mother know \u2014 Meg smiles, resolved",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A girl of 16 smiling a real quiet smile while kneading dough, a man of 61 nearby with a satisfied expression, warm lantern light, stone bakehouse interior No text, no watermarks."
+ },
+ {
+  "num": 37,
+  "time": "33:38.87",
+  "dur": "64.4s",
+  "type": "AI",
+  "desc": "The dough is ready \u2014 springs back under the thumb",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 pressing a thumb into a smooth ball of pale dough on a wooden table, a girl of 16 doing the same beside him with a hopeful expression, warm lantern light, close hands-on moment No text, no watermarks."
+ },
+ {
+  "num": 38,
+  "time": "34:43.31",
+  "dur": "56.8s",
+  "type": "STOCK",
+  "desc": "Two bowls of dough covered with damp cloth, set to rise",
+  "prompt": "bread dough bowl covered cloth rising rustic kitchen closeup"
+ },
+ {
+  "num": 39,
+  "time": "35:40.12",
+  "dur": "36.9s",
+  "type": "STOCK",
+  "desc": "Tin kettle on the grate, bread and cheese for a break",
+  "prompt": "old tin kettle fireplace bread cheese rustic table candlelight"
+ },
+ {
+  "num": 40,
+  "time": "36:17.01",
+  "dur": "44.1s",
+  "type": "AI",
+  "desc": "Tell me about the fair \u2014 Hollis and Meg share tea",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 and a girl of 16 sitting on upturned flour barrels near a warm fire, drinking tea from tin cups, eating bread and cheese, warm firelight, companionable quiet mood No text, no watermarks."
+ },
+ {
+  "num": 41,
+  "time": "37:01.10",
+  "dur": "27.1s",
+  "type": "AI",
+  "desc": "Because of the barm \u2014 loyalty over novelty",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 speaking with a small satisfied smile over a tin cup of tea, a girl of 16 listening beside him near a warm fire, stone bakehouse interior, cozy firelight No text, no watermarks."
+ },
+ {
+  "num": 42,
+  "time": "37:28.23",
+  "dur": "119.1s",
+  "type": "AI",
+  "desc": "The Elmscombe rival's failed iron oven, and the goat story",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 telling an amused story to a girl of 16 who laughs, both sitting near a warm fire with tin cups of tea, stone bakehouse interior, cozy firelight, warm humor No text, no watermarks."
+ },
+ {
+  "num": 43,
+  "time": "39:27.36",
+  "dur": "108.1s",
+  "type": "AI",
+  "desc": "Hollis's first fair at ten years old",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 turning a tin cup slowly in his hands, a distant remembering expression, a girl of 16 listening intently beside him, warm firelight, stone bakehouse No text, no watermarks."
+ },
+ {
+  "num": 44,
+  "time": "41:15.47",
+  "dur": "65.3s",
+  "type": "AI",
+  "desc": "The stall was mine in earnest after that",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 speaking with quiet gravity near a warm fire, a girl of 16 listening with sympathy, tin cups of tea between them, stone bakehouse interior, warm firelight No text, no watermarks."
+ },
+ {
+  "num": 45,
+  "time": "42:20.76",
+  "dur": "64.9s",
+  "type": "STOCK",
+  "desc": "Church clock tower faint across the yard at night",
+  "prompt": "old stone church clock tower night village silhouette"
+ },
+ {
+  "num": 46,
+  "time": "43:25.62",
+  "dur": "64.9s",
+  "type": "AI",
+  "desc": "Hollis checks the risen dough",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 lifting the corner of a damp cloth from a large bowl of risen pale dough, careful gentle motion, warm lantern light, stone bakehouse interior at night No text, no watermarks."
+ },
+ {
+  "num": 47,
+  "time": "44:30.49",
+  "dur": "51.3s",
+  "type": "AI",
+  "desc": "Knocking back the dough",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 pressing a firm fist into a large risen dome of dough on a wooden table, a girl of 16 watching in surprise, warm lantern light, stone bakehouse No text, no watermarks."
+ },
+ {
+  "num": 48,
+  "time": "45:21.79",
+  "dur": "76.7s",
+  "type": "AI",
+  "desc": "Shaping the loaves \u2014 plaiting lesson",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 and a girl of 16 shaping bread dough together at a wooden table, plaited loaves and round loaves taking form, flour dust in lantern light, close hands-on scene No text, no watermarks."
+ },
+ {
+  "num": 49,
+  "time": "46:38.52",
+  "dur": "61.5s",
+  "type": "AI",
+  "desc": "Shaping the vicarage loaves, playful moment",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A girl of 16 shaping small loaves of dough with exaggerated careful attention, a man of 61 smiling and lightly teasing her with a floury hand, warm lantern light, stone bakehouse No text, no watermarks."
+ },
+ {
+  "num": 50,
+  "time": "47:40.00",
+  "dur": "13.6s",
+  "type": "STOCK",
+  "desc": "Shaped loaves proving on boards under cloth",
+  "prompt": "bread dough loaves proving wooden board cloth rustic bakery"
+ },
+ {
+  "num": 51,
+  "time": "47:53.56",
+  "dur": "47.1s",
+  "type": "AI",
+  "desc": "Hollis rakes the fire, sweeps the oven floor",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 raking glowing embers from a brick oven with a long-handled tool, steam rising from a wet birch broom, warm firelight, stone bakehouse interior No text, no watermarks."
+ },
+ {
+  "num": 52,
+  "time": "48:40.62",
+  "dur": "66.6s",
+  "type": "AI",
+  "desc": "The flour heat test \u2014 'she's hungry'",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 flinging a pinch of flour onto the swept floor of a glowing brick oven, a girl of 16 watching closely beside him, warm ember glow, stone bakehouse interior No text, no watermarks."
+ },
+ {
+  "num": 53,
+  "time": "49:47.18",
+  "dur": "70.8s",
+  "type": "STOCK",
+  "desc": "The swept oven floor radiating heat, close detail",
+  "prompt": "hot brick oven floor glowing embers closeup bakery rustic"
+ },
+ {
+  "num": 54,
+  "time": "50:57.98",
+  "dur": "41.1s",
+  "type": "AI",
+  "desc": "How long before you knew the count without thinking",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 and a girl of 16 crouched together before a glowing brick oven firebox, warm ember light on their faces, quiet instructive moment No text, no watermarks."
+ },
+ {
+  "num": 55,
+  "time": "51:39.11",
+  "dur": "80.6s",
+  "type": "AI",
+  "desc": "My father used to say the oven had moods",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 crouched thoughtfully before a glowing oven firebox, studying the embers, a girl of 16 crouched beside him matching his stillness, warm firelight No text, no watermarks."
+ },
+ {
+  "num": 56,
+  "time": "52:59.66",
+  "dur": "46.2s",
+  "type": "AI",
+  "desc": "Do you think of it as a person \u2014 Hollis's fondness for the oven",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 speaking warmly beside a glowing brick oven, a girl of 16 listening with a small smile, warm ember light, stone bakehouse interior No text, no watermarks."
+ },
+ {
+  "num": 57,
+  "time": "53:45.87",
+  "dur": "74.6s",
+  "type": "AI",
+  "desc": "Loading the oven with the peel",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 sliding a shaped loaf of bread into a glowing brick oven using a long wooden peel, a girl of 16 counting loaves beside him, warm firelight, stone bakehouse No text, no watermarks."
+ },
+ {
+  "num": 58,
+  "time": "55:00.48",
+  "dur": "17.0s",
+  "type": "AI",
+  "desc": "Counting the loaves in, 'say it again in an hour'",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A girl of 16 reciting numbers proudly to a man of 61 standing beside a brick oven with a long wooden peel, warm firelight, stone bakehouse interior No text, no watermarks."
+ },
+ {
+  "num": 59,
+  "time": "55:17.44",
+  "dur": "86.5s",
+  "type": "STOCK",
+  "desc": "The old wooden peel, worn smooth by generations",
+  "prompt": "old wooden bread peel paddle worn handle rustic bakery closeup"
+ },
+ {
+  "num": 60,
+  "time": "56:43.93",
+  "dur": "14.8s",
+  "type": "STOCK",
+  "desc": "The heavy iron oven door swinging shut",
+  "prompt": "old iron oven door closing heavy metal bakery rustic closeup"
+ },
+ {
+  "num": 61,
+  "time": "56:58.77",
+  "dur": "36.0s",
+  "type": "AI",
+  "desc": "The final wait begins \u2014 Meg growing tired",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A girl of 16 sitting on a flour barrel with a cup of tea, eyelids heavy with tiredness, a man of 61 watching her with quiet warmth, dim warm firelight, stone bakehouse No text, no watermarks."
+ },
+ {
+  "num": 62,
+  "time": "57:34.80",
+  "dur": "22.9s",
+  "type": "AI",
+  "desc": "You did well \u2014 does it get easier",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 speaking gently to a tired girl of 16 sitting on a flour barrel, warm dim firelight, stone bakehouse interior, late-night quiet mood No text, no watermarks."
+ },
+ {
+  "num": 63,
+  "time": "57:57.70",
+  "dur": "31.4s",
+  "type": "AI",
+  "desc": "But you'll mind it less, given time",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A girl of 16 considering a quiet answer thoughtfully, a man of 61 beside her in the dim warm firelight of a stone bakehouse, late-night reflective mood No text, no watermarks."
+ },
+ {
+  "num": 64,
+  "time": "58:29.07",
+  "dur": "66.6s",
+  "type": "AI",
+  "desc": "Do you never grow tired of it \u2014 forty years, still surprised",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 speaking with quiet warmth to a girl of 16 in a dim firelit stone bakehouse, both tired but companionable, late night mood No text, no watermarks."
+ },
+ {
+  "num": 65,
+  "time": "59:35.63",
+  "dur": "76.3s",
+  "type": "AI",
+  "desc": "Tonight's been a surprise too \u2014 the company",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 speaking with unguarded warmth to a girl of 16 in a dim firelit bakehouse, a tender honest moment between them, late night quiet No text, no watermarks."
+ },
+ {
+  "num": 66,
+  "time": "60:51.94",
+  "dur": "50.5s",
+  "type": "AI",
+  "desc": "Comfortable silence between them",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 and a girl of 16 sitting quietly together near a dim glowing oven, comfortable silence, warm low firelight, stone bakehouse interior, late night No text, no watermarks."
+ },
+ {
+  "num": 67,
+  "time": "61:42.39",
+  "dur": "66.6s",
+  "type": "STOCK",
+  "desc": "Small high window paling with the first hint of dawn",
+  "prompt": "small window dawn light pale grey stone wall rustic closeup"
+ },
+ {
+  "num": 68,
+  "time": "62:48.95",
+  "dur": "33.5s",
+  "type": "AI",
+  "desc": "You may sleep a quarter hour \u2014 Meg's transparent lie",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 smiling gently at a girl of 16 who yawns despite herself, warm dim firelight, stone bakehouse interior, tender late-night humor No text, no watermarks."
+ },
+ {
+  "num": 69,
+  "time": "63:22.45",
+  "dur": "42.8s",
+  "type": "AI",
+  "desc": "Meg falls asleep, Hollis watches over her",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A girl of 16 asleep sitting upright on a flour barrel, chin dropped, a man of 61 watching her with quiet tenderness in the dim warm firelight, stone bakehouse interior No text, no watermarks."
+ },
+ {
+  "num": 70,
+  "time": "64:05.27",
+  "dur": "52.1s",
+  "type": "AI",
+  "desc": "The smell reaches them \u2014 'there it is'",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A girl of 16 sitting up with her nose lifting eagerly, a man of 61 smiling beside her, warm golden light beginning to touch a small high window, stone bakehouse interior No text, no watermarks."
+ },
+ {
+  "num": 71,
+  "time": "64:57.41",
+  "dur": "32.6s",
+  "type": "STOCK",
+  "desc": "Dawn breaking over Millbrook, cock crowing, chimney smoke",
+  "prompt": "english village dawn sunrise chimney smoke rooster countryside"
+ },
+ {
+  "num": 72,
+  "time": "65:30.06",
+  "dur": "36.5s",
+  "type": "AI",
+  "desc": "Hollis opens the oven, the smell rolls out",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 swinging open a heavy iron oven door, golden light and steam rolling out, a girl of 16 beside him with delighted surprise, warm morning light, stone bakehouse No text, no watermarks."
+ },
+ {
+  "num": 73,
+  "time": "66:06.52",
+  "dur": "34.8s",
+  "type": "AI",
+  "desc": "Drawing the loaves with the peel",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 sliding golden-brown loaves of bread out of a brick oven with a long wooden peel, a girl of 16 receiving them onto cooling racks, warm morning light, stone bakehouse No text, no watermarks."
+ },
+ {
+  "num": 74,
+  "time": "66:41.28",
+  "dur": "30.5s",
+  "type": "AI",
+  "desc": "Not one lost \u2014 the full racks of bread",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A girl of 16 and a man of 61 standing before racks filled with golden-brown loaves of bread, warm morning light streaming through a window, quiet pride, stone bakehouse interior No text, no watermarks."
+ },
+ {
+  "num": 75,
+  "time": "67:11.81",
+  "dur": "58.9s",
+  "type": "STOCK",
+  "desc": "Cooling bread crusts crackling on the rack",
+  "prompt": "fresh bread loaves cooling rack golden crust closeup bakery"
+ },
+ {
+  "num": 76,
+  "time": "68:10.74",
+  "dur": "69.1s",
+  "type": "AI",
+  "desc": "It sings \u2014 the crust song lesson",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A girl of 16 listening with her head tilted toward racks of cooling bread, a man of 61 explaining gently beside her, warm morning light, stone bakehouse interior No text, no watermarks."
+ },
+ {
+  "num": 77,
+  "time": "69:19.84",
+  "dur": "58.5s",
+  "type": "AI",
+  "desc": "Look at that \u2014 Meg's quiet pride",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 and a girl of 16 standing together before racks of golden bread, warm morning light through a window, both wearing an expression of quiet earned pride, stone bakehouse No text, no watermarks."
+ },
+ {
+  "num": 78,
+  "time": "70:18.35",
+  "dur": "57.2s",
+  "type": "AI",
+  "desc": "Carrying baskets of bread out into the waking lane",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 and a girl of 16 walking together down a village lane at dawn, each carrying a basket of bread, smoke rising from cottage chimneys, soft golden morning light No text, no watermarks."
+ },
+ {
+  "num": 79,
+  "time": "71:15.58",
+  "dur": "57.2s",
+  "type": "AI",
+  "desc": "Arriving at the green \u2014 the Elmscombe baker's cool greeting",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 lifting a hand in greeting to a rival baker across a village green being set up for a fair, a girl of 16 beside him, morning light, trestles and bunting in the background No text, no watermarks."
+ },
+ {
+  "num": 80,
+  "time": "72:12.81",
+  "dur": "38.2s",
+  "type": "AI",
+  "desc": "Setting the trestle, arranging the loaves",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 and a girl of 16 arranging golden plaited loaves of bread on a wooden trestle table near a church wall, warm morning light, village fair green in the background No text, no watermarks."
+ },
+ {
+  "num": 81,
+  "time": "72:50.97",
+  "dur": "62.3s",
+  "type": "AI",
+  "desc": "The first customer \u2014 Meg takes the coin",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A girl of 16 taking a coin from a farmer's wife and handing over a loaf of bread at a market stall, a man of 61 standing back with a proud quiet smile, warm morning light, village fair No text, no watermarks."
+ },
+ {
+  "num": 82,
+  "time": "73:53.29",
+  "dur": "38.6s",
+  "type": "AI",
+  "desc": "Go on home \u2014 Meg leaves, tired and proud",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 speaking kindly to a girl of 16 at a bread stall on a village green, morning market bustle around them, warm golden light No text, no watermarks."
+ },
+ {
+  "num": 83,
+  "time": "74:31.87",
+  "dur": "45.4s",
+  "type": "AI",
+  "desc": "Hollis watches her go \u2014 the closing reflection",
+  "prompt": "Victorian era painterly realism, warm golden tones, subtle oil painting brushstrokes, fine detail, soft natural lighting, no frame, no border, full bleed edge to edge composition filling the entire frame, no blank margins, no canvas border. A man of 61 standing behind a market trestle table watching a girl of 16 walk away down a village lane in the low gold morning light, flour still on her skirt, quiet contentment, English village fair in the background No text, no watermarks."
+ },
+ {
+  "num": 84,
+  "time": "75:17.23",
+  "dur": "45.4s",
+  "type": "STOCK",
+  "desc": "Village fair morning in full swing, wide closing shot",
+  "prompt": "english village fair market green morning sunny bunting stalls"
+ }
+]

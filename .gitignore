@@ -1,0 +1,59 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+remotion/node_modules/
+
+# Media (büyük dosyalar — git'e koymayız)
+*.mp3
+*.mp4
+*.wav
+*.mov
+*.avi
+*.mkv
+*.webm
+out/frames/
+out/*.mp4
+out/*.mp3
+
+# Büyük image klasörleri
+beekeeper_images/
+telegraph_images/
+telegraph_stock/
+telegraph_vo_chunks/
+telegraph_qc/
+matilda_images/
+video_check/
+vo/
+vo-act1/
+FillThisSpace/
+
+# JSON veri dosyaları (session-specific, yeniden üretilebilir)
+inn_whisper*.json
+inn_image_results.json
+
+# Secrets — ASLA commit'leme
+.env
+*.env
+.claude/settings.local.json
+
+# Hookify symlinks (makinaya özgü absolute path)
+.claude/hookify.*.local.md
+
+# Render logs
+*.log
+
+# Sub-projects (ayrı repo olabilir)
+storm-rescue-k9/
+victorian-train/
+
+# Out geçici HTML/PNG
+out/*.html
+out/*.png
